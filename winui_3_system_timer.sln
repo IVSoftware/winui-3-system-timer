@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winui_3_system_timer", "winui_3_system_timer\winui_3_system_timer.csproj", "{040A4F6D-6FD8-4A41-A608-54E1156D49C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|arm64.ActiveCfg = Debug|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|arm64.Build.0 = Debug|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|arm64.Deploy.0 = Debug|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x64.ActiveCfg = Debug|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x64.Build.0 = Debug|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x64.Deploy.0 = Debug|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x86.ActiveCfg = Debug|x86
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x86.Build.0 = Debug|x86
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Debug|x86.Deploy.0 = Debug|x86
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|arm64.ActiveCfg = Release|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|arm64.Build.0 = Release|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|arm64.Deploy.0 = Release|arm64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x64.ActiveCfg = Release|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x64.Build.0 = Release|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x64.Deploy.0 = Release|x64
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x86.ActiveCfg = Release|x86
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x86.Build.0 = Release|x86
+		{040A4F6D-6FD8-4A41-A608-54E1156D49C0}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5746393B-80BD-4212-A9AA-4398C1944B43}
+	EndGlobalSection
+EndGlobal

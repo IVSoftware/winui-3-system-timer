@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "winui_3_system_timer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "winui_3_system_timer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
