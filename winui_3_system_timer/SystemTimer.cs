@@ -38,5 +38,10 @@ namespace winui_3_system_timer
             }
         }
         static bool _dispose = false;
+
+        internal static void Dispose()
+        {
+            _dispose = true;
+        }
     }
 }

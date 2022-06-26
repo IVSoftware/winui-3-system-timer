@@ -41,6 +41,11 @@ namespace winui_3_system_timer
                         break;
                 }
             };
+
+            this.Closed += (sender, e) =>
+            {
+                SystemTimer.Dispose();
+            };
         }
     }
 }
